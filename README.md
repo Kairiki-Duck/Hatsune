@@ -1,0 +1,2 @@
+# Hatsune
+My first repository
